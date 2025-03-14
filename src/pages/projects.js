@@ -111,7 +111,7 @@ const projects = () => {
 title="Code Verse"
 summary="A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously."
 link="https://code-verse-tau.vercel.app/"
-type="Full stack"
+type="Full Stack"
 img={project2}
 github="https://github.com/skipper-108/Code-Verse"
 
@@ -130,7 +130,7 @@ github="https://github.com/skipper-108/Code-Verse"
     title="Atom Insight"
 summary="Atom Insight is a web application made using reactjs that provides detailed information on elements of the periodic table. It features interactive elements and dark mode support for a better user experience."
 link="https://lighthearted-sprite-b2981f.netlify.app/"
-type="React-js"
+type="React.js"
 img={project1}
 github="https://github.com/skipper-108/Periodic-table"
 />
@@ -144,7 +144,7 @@ github="https://github.com/skipper-108/Periodic-table"
     title="CyberVerse"
     summary="Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS"
     link="https://cyberverse-sk.vercel.app/"
-    type="Next-js with Framer Motion"
+    type="Next.js with Framer Motion"
     img={p3}
     github="https://github.com/skipper-108/cyberverse"
 />
