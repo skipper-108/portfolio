@@ -108,12 +108,12 @@ const projects = () => {
                         <div className='col-span-12'>
                             <FeaturedProject
 
-title="Code Verse"
+title="Algo Board"
 summary="A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously."
-link="https://code-verse-tau.vercel.app/"
+link="https://algoboard.vercel.app/"
 type="Full Stack"
 img={project2}
-github="https://github.com/skipper-108/Code-Verse"
+github="https://github.com/skipper-108/algoboard"
 
 
                             />
